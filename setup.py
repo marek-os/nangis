@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='nangis',
-    version='0.0.1',
+    version='0.0.3',
     packages=['nangis', 'nangis.dk', 'nangis.dk.db', 'nangis.dk.styles', 'nangis.dk.basemap', 'nangis.dk.factories',
               'nangis.demo', 'nangis.demo.data'],
     url='',
