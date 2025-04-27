@@ -21,7 +21,7 @@ dist/
 # .idea/*.iws
 
 # Ignore Python package metadata
-qcbase.egg-info/
+nangis.egg-info/
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
