@@ -1,0 +1,27 @@
+#
+# Layer Names for maps
+LAYER_COASTLINE = 'Coastline'
+LAYER_COASTLINE_DB = 'COASTLINE'
+LAYER_COAST_BUFFER = 'CoastBuffer'
+
+LAYER_SEAFLOOR = 'Seafloor'
+LAYER_200M = 'Isobath=200m'
+LAYER_ISOBATH = 'Isobath_'
+LAYER_ISOBATH_DB = 'ISOBATH_'
+MAPSET_INVENTORY = 'ABEAM_MAPSET_INVENTORY'
+LAYER_GEBCO_DEM = 'DEM'
+LAYER_COUNTRY_BORDERS = 'COUNTRY_BORDERS'
+
+
+# Layer Captions
+CAP_LAND_MASSES = 'Continents and islands'
+CAP_COUNTRY_BORDERS = 'Country Borders'
+CAP_GEBCO = 'GEBCO Bathymetry'
+
+# Legend Group Names
+LEGEND_GROUP_BASE_MAP = 'Base map'
+LEGEND_GROUP_LAND_MASS = 'Land mass'
+LEGEND_GROUP_ISOBATHS = 'Isobaths'
+LEGEND_GROUP_GEBCO_DEM = 'Ocean floor'
+LEGEND_GROUP_COAST_BUFFER = 'Coast buffer'
+

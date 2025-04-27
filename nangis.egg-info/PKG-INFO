@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: nangis
+Version: 0.0.1
+Summary: Areal integration with Voronoi diagrams
+Home-page: 
+Author: Marek Ostrowski
+Author-email: marek@hi.no
+License: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: tatukgis_pdk

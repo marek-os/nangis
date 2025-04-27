@@ -1,0 +1,27 @@
+# Ignore class files
+*.class
+
+# Ignore Python compiled files
+*.pyc
+*.py~
+
+# Ignore Mac system file
+.DS_Store
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore IDE settings
+../.idea/
+# (Optional) Ignore specific IntelliJ IDEA files
+# .idea/workspace.xml
+# .idea/tasks.xml
+# .idea/*.iws
+
+# Ignore Python package metadata
+qcbase.egg-info/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
